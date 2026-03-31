@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-##**Name: Jhanvi Srivastava**
+**Name: Jhanvi Srivastava**
 
-##**Registration Number: 25BCE10405**
+**Registration Number: 25BCE10405**
 
-##**Branch: CSE Core**
+**Branch: CSE Core**
 
-##**Year: 1st Year**
+**Year: 1st Year**
 
